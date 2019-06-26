@@ -1,26 +1,333 @@
 # Reference
 
+Still need to add text help me if you can XD
+i got almost all pictures done XD
+
+## Action
+
+### Add Collection
+
+![](/logic_nodes/img2.8/Add-Collection.jpg)
+
+### Add Trait
+
+![](/logic_nodes/img2.8/Add-Trait.jpg)
+
+### Append Transform
+
+![](/logic_nodes/img2.8/Append-Transform.jpg)
+
+### Call Function
+
+![](/logic_nodes/img2.8/Call-Function.jpg)
+
+### Call Node Group
+
+![](/logic_nodes/img2.8/Call-Node-Group.jpg)
+
+### Clear Parent
+
+![](/logic_nodes/img2.8/Clear-Parent.jpg)
+
+### Node Group Output
+
+![](/logic_nodes/img2.8/Node-Group-Output.jpg)
+
+### Pause Trait
+
+![](/logic_nodes/img2.8/Pause-Trait.jpg)
+
+### Print
+
+![](/logic_nodes/img2.8/Print.jpg)
+
+### Remove Active Scene
+
+![](/logic_nodes/img2.8/Remove-Active-Scene.jpg)
+
+### Remove Collection
+
+![](/logic_nodes/img2.8/Remove-Collection.jpg)
+
+### Remove Trait
+
+![](/logic_nodes/img2.8/Remove-Trait.jpg)
+
+### Resume Trait
+
+![](/logic_nodes/img2.8/Remove-Trait.jpg)
+
+### Rotate Object Around Axis
+
+![](/logic_nodes/img2.8/Rotate-Object-Around-Axis.jpg)
+
+### Rotate Object
+
+![](/logic_nodes/img2.8/Rotate-Object.jpg)
+
+### Scale Object
+
+![](/logic_nodes/img2.8/Scale-Object.jpg)
+
+### Send Event
+
+![](/logic_nodes/img2.8/Send-Event.jpg)
+
+### Send Global Event
+
+![](/logic_nodes/img2.8/Send-Global-Event.jpg)
+
+### Set Camera FOV
+
+![](/logic_nodes/img2.8/Set-Camera-FOV.jpg)
+
+### Set Camera
+
+![](/logic_nodes/img2.8/Set-Camera.jpg)
+
+### Set Light Color
+
+![](/logic_nodes/img2.8/Set-Light-Color.jpg)
+
+### Set Light Strength
+
+![](/logic_nodes/img2.8/Set-Light-Strength.jpg)
+
+### Set Location
+
+![](/logic_nodes/img2.8/Set-Location.jpg)
+
+### Set Material Image Param
+
+![](/logic_nodes/img2.8/Set-Material-Image-Param.jpg)
+
+### Set Material
+
+![](/logic_nodes/img2.8/Set-Material.jpg)
+
+### Set Material RGB Param
+
+![](/logic_nodes/img2.8/Set-Material-RGB-Param.jpg)
+
+### Set Material Slot
+
+![](/logic_nodes/img2.8/Set-Material-Slot.jpg)
+
+### Set Material Value Param
+
+![](/logic_nodes/img2.8/Set-Material-Value-Param.jpg)
+
+### Set Mesh
+
+![](/logic_nodes/img2.8/Set-Mesh.jpg)
+
+### Set Name
+
+![](/logic_nodes/img2.8/Set-Name.jpg)
+
+### Set Parent Bone
+
+![](/logic_nodes/img2.8/Set-Parent-Bone.jpg)
+
+### Set Property
+
+![](/logic_nodes/img2.8/Set-Property.jpg)
+
+### Set Rotation
+
+![](/logic_nodes/img2.8/Set-Rotation.jpg)
+
+### Set Scale
+
+![](/logic_nodes/img2.8/Set-Scale.jpg)
+
+### Set Scene
+
+![](/logic_nodes/img2.8/Set-Scene.jpg)
+
+### Set Time Scale
+
+![](/logic_nodes/img2.8/Set-Time-Scale.jpg)
+
+### Set Transform
+
+![](/logic_nodes/img2.8/Set-Transform.jpg)
+
+### Set Variable
+
+![](/logic_nodes/img2.8/Set-Variable.jpg)
+
+### Set Visible
+
+![](/logic_nodes/img2.8/Set-Visible.jpg)
+
+### Sleep
+
+![](/logic_nodes/img2.8/Sleep.jpg)
+
+### Spawn Object
+
+![](/logic_nodes/img2.8/Spawn-Object.jpg)
+
+### Spawn Scene
+
+![](/logic_nodes/img2.8/Spawn_Scene.jpg)
+
+### Timer
+
+![](/logic_nodes/img2.8/Timer.jpg)
+
+### Translate Object
+
+![](/logic_nodes/img2.8/Translate-Object.jpg)
+
+### Translate On Local Axis
+
+![](/logic_nodes/img2.8/Translate-On-Local-Axis.jpg)
+
+### Write Storage
+
+![](/logic_nodes/img2.8/Write-Storage.jpg)
+
+
+## Animation
+
+
+### 
+
+![](/logic_nodes/img2.8/.jpg)
+
+
+left
+
+Animation State
+Blend Action
+Bone FK
+Bone IK
+On Action Marker
+Pause Action
+Pause Tilesheet
+Play Action
+Play Tilesheet
+Resume Action
+Resume Tilesheet
+Set Action Speed
+Set Particle Speed
+
+## Array
+
+Array Add
+Array Add Unique
+Array (Boolean)
+Array (Color)
+Array (Float)
+Array Get
+In Array
+Array (Integer)
+Array Length
+Array
+Array (Object)
+Array Pop
+Array Remove
+Array Remove Value
+Array Set
+Array Shift
+Array Slice
+Array Splice
+Array (String)
+Array (Vector)
+
+## Canvas
+
+Canvas Ger Slider
+Canvas Set Location
+Canvas Set Slider
+Canvas Set Text
+
+## Event
+
+On Event
+On Init
+On Timer
+On Update
+On Volume Trigger
+
+## Imput
+
+Gamepad Coords
+Gamepad State (deprecated)
+Keyboard State (deprecated)
+Gamepad
+Keyboard
+Mouse
+Surface
+Virtual Button
+Mouse Coords
+Mouse State (deprecated)
+On Gamepad
+On Keyboard
+On Mouse
+On Surface
+On Virtual Button
+Sensor Coords
+Set Mouse Lock
+Show Mouse
+Surface Coords
+Surface State (deprecated)
+Virtual Button State (deprecated)
+
+## Logic
+
+Alternate
+Array Loop
+Branch
+Function
+Function Output
+Gate
+Inverse
+Is False
+Is None
+Is Not None
+Is True
+Loop Break
+Loop
+Merge
+Not
+Sequence
+Switch
+To Bool
+While
 ## Logic
 
 ### Alternate
 
 Alternates between its activated outputs to pass through its input when it is being re-activated.  
 
-![](/logic_nodes/img/Alternate.JPG)
+![](/logic_nodes/img2.8/Alternate.jpg)
 
 
 ### Array loop
 
 It loops through each item assigned in an array."Value" give item specified by index's value."Done" calls connectors when it is done looping through the array.
 
-![](/logic_nodes/img/array-loop.JPG)
+![](/logic_nodes/img2.8/Array-Loop.jpg)
 
 
 ### Branch
 
 When activated, activates its "True" or "False" output, according to the state of the plugged-in boolean.
 
-![](/logic_nodes/img/Branch.JPG)
+![](/logic_nodes/img2.8/Branch.jpg)
+
+
+### Function
+
+![](/logic_nodes/img2.8/Function.jpg)
+
+
+### Function Output
+
+![](/logic_nodes/img2.8/Function-Output.jpg)
 
 
 ### Gate
@@ -29,98 +336,224 @@ Logic nodes way to do "if" statements. When activated, it compares if its two in
 
 "And" and "Or" are being used for booleans only, and pass through the input when both bools are true \(and\) or at least one \(or\).
 
-![](/logic_nodes/img/Gate.JPG)
+![](/logic_nodes/img2.8/Gate.jpg)
 
 
 ### Inverse
 
 Bool will become opposite, True will become False, False will become True.
 
-![](/logic_nodes/img/Inverse.JPG)
+![](/logic_nodes/img2.8/Inverse.jpg)
 
 
 ### Is True/False
 
 Passes through its activation only if the plugged in boolean is "True"/"False", according to the node.
 
-![](/logic_nodes/img/Is-true_false.JPG)
+![](/logic_nodes/img2.8/Is-True.jpg)![](/logic_nodes/img2.8/Is-False.jpg)
 
 
 ### Is None
 
 Give bool value of null i.e., If it is null then its output true(Doesn't have value), if it is not null then it outputs false(Have value).
 
-![](/logic_nodes/img/is-none.JPG)
+![](/logic_nodes/img2.8/Is-None.jpg)
 
 
 ### Is Not None
 
 Give opposite bool value of null i.e., If it is not null then its output true(Have value), if it is null then it output false(Doesn't have value).
 
-![](/logic_nodes/img/is-not-none.JPG)
+![](/logic_nodes/img2.8/Is-Not-None.jpg)
 
 
 ### Loop
 
 It is basically for(i in from...to) loop. "Index" give value specified by the index value."Done" is called when it is done looping.
 
-![](/logic_nodes/img/Loop.JPG)
+![](/logic_nodes/img2.8/Loop.jpg)
 
 
 ### Loop Break
 
 Loop Break terminates loop containing it.
 
-![](/logic_nodes/img/loop-break.JPG)
+![](/logic_nodes/img2.8/Loop-Break.jpg)
 
 
 ### Merge
 
 The "New" button creates new inputs, the "X" one deletes the most bottom one. If it receives on activation from any of its inputs, it will activate its output.
 
-![](/logic_nodes/img/Merge.JPG)
+![](/logic_nodes/img2.8/Merge.jpg)
 
 
 ### Not
 
 Inverts a plugged in boolean, so if its input is "true" it outputs "false".
 
-![](/logic_nodes/img/Not.JPG)
+![](/logic_nodes/img2.8/Not.jpg)
 
 
 ### Sequence
 
 Its call output in sequential order.
 
-![](/logic_nodes/img/Sequence.JPG)
+![](/logic_nodes/img2.8/Sequence.jpg)
 
 
 ### Switch
 
 Check the value on input “in”, When the input value matches Case1, Case 2 or Case 3 value, it will trigger the corresponding output Case 1, Case 2 or Case 3. Click "new" to add more Case Value.
 
-![](/logic_nodes/img/Switch.JPG)
+![](/logic_nodes/img2.8/Switch.jpg)
 
 
 ### To Bool
 
 Is false when there is no event on input, true when there is an event on input.
 
-![](/logic_nodes/img/to-bool.JPG)
+![](/logic_nodes/img2.8/To Bool.jpg)
 
 
 ### While
 
 Its loop through as long as bool specified in "Condition" is same.(i.e., like  while(jumping == true){do domething}).
 
-![](/logic_nodes/img/While.JPG)
+![](/logic_nodes/img2.8/While.jpg)
+
+
+
+## Native
+
+Call Haxe Static
+Expression
+Get Haxe Property
+Read File
+Read JSON
+Script
+Set Haxe Property
+Shutdown
+Write File
+Write JSON
+
+## NavMesh
+
+Go To Location
+Navigable Location
+Pick Location
+Stop Agent
+
+## Pyshics
+
+Apply Force At Location
+Apply Force
+Apply Impulse At Location
+Apply Impulse
+Apply Torque Impulse
+Apply Torque
+Cast Physics Ray
+Get Contacts
+Get First Contact
+Get Gravity
+Get Velocity
+Has Contact
+On Contact (Array)
+On Contact
+Pick Object
+Set Gravity Enabled
+Set Gravity
+Set Velocity
+
+## Sound
+
+Pause speaker
+Play speaker 
+play sound
+Stop Speaker
+
+## Value
+
+Active Camera
+Active Scene
+Compare
+Concatenate String
+Contains String
+Deg to Rad
+Display Info
+Get Camera FOV
+Get Child
+Get Children
+Get Distance
+Get Collection
+Get Location
+Get Material
+Get Mesh
+Get Name
+Get Object
+Get Parent
+Get Property
+Get Rotation
+Get Scale
+Get Trait
+Get Transform
+Get Visible
+Look At
+Math
+Matrix Math
+Mix
+None
+Rad to Deg
+Random (Boolean)
+Random (Color)
+Random (Float)
+Random (Integer)
+Random (Vector)
+Read Storage
+Screen To World Space
+Self
+Self Trait
+Separate RGB
+Separate Transform
+Separate XYZ
+Time
+Vector Clamp To Size
+Vector From Transform
+Vector Math
+Vector Mix
+Volume Trigger
+Window Info
+World To Screen Space
+
+## Verable
+
+Action
+Boolean
+Color
+Dynamic
+Float
+Global Object
+Collection
+Integer
+Material
+Mesh
+Object
+Quatemion
+Scene
+Scene Root
+String
+Trait
+Transform
+Vector
+
+
 
 
 ### Sleep
 
 Activates the node connected with its output after the float value in seconds after it was activated itself.
 
-![](/logic_nodes/img/sleep.JPG)
+![](/logic_nodes/img2.8/Sleep.jpg)
 
 
 ## Event
@@ -129,28 +562,28 @@ Activates the node connected with its output after the float value in seconds af
 
 Activates the node\(s\) being connected to Sent Event or Sent Global Event specified in other node\(s\) tree.
 
-![](/logic_nodes/img/on-event.JPG)
+![](/logic_nodes/img2.8/On-Event.jpg)
 
 
 ### On Init
 
 Activates the node\(s\) being connected to it on the first frame of the game.
 
-![](/logic_nodes/img/On-Init.JPG)
+![](/logic_nodes/img2.8/On-Init.jpg)
 
 
 ### On Timer
 
 Activates the node\(s\) being connected to after a Timer countdown on from the beginning of the game, repeatedly when box ticked.
 
-![](/logic_nodes/img/On-Timer.JPG)
+![](/logic_nodes/img2.8/On-Timer.jpg)
 
 
 ### On Update
 
 Activates the node\(s\) being connected to it every frame.
 
-![](/logic_nodes/img/On-Update.JPG)
+![](/logic_nodes/img2.8/On-Update.jpg)
 
 
 ### On Volume Trigger
@@ -163,7 +596,7 @@ Leave-mode: Activates the connected nodes on the frame the object leaves the vol
 
 Overlap-mode: Activates the connected nodes on the frame the object overlaps with the volume, on all other frames it doesn't do that.
 
-![](/logic_nodes/img/on-volume-trigger.JPG)
+![](/logic_nodes/img2.8/On-Volume-Trigger.jpg)
 
 
 ## Activators
@@ -173,14 +606,14 @@ Overlap-mode: Activates the connected nodes on the frame the object overlaps wit
 
 Activates the node\(s\) being connected to it when the set Mouse-button is being started, held down or released, depending on settings.
 
-![](/logic_nodes/img/On-Mouse.JPG)
+![](/logic_nodes/img2.8/On-Mouse.jpg)
 
 
 ### On Keyboard
 
 Activates the node\(s\) being connected to it when the set Keyboard-button is being started, held down or released, depending on settings.
 
-![](/logic_nodes/img/On-Keyboard.JPG)
+![](/logic_nodes/img2.8/On-Keyboard.jpg)
 
 
 
